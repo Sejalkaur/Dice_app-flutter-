@@ -1,4 +1,16 @@
-# Dice_app-flutter-
-When clicked, the image rolls a random dice number nad displays it on the screen.
-<img width="380" alt="image" src="https://github.com/Sejalkaur/Dice_app-flutter-/assets/122438982/0feda415-1579-4802-a8ef-60c25ccbe8f5">
+# first_app
 
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
